@@ -1,0 +1,41 @@
+# Dependency directories
+**/node_modules/
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
+
+# Python cache and compile files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Next.js and frontend builds
+**/.next/
+**/out/
+**/dist/
+**/build/
+**/.vite/
+
+# Environment files (containing secrets)
+**/.env
+**/.env.local
+**/.env.*.local
+**/.env.development
+**/.env.test
+**/.env.production
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
